@@ -1,2 +1,2 @@
-# ClaseWeb
+# ClasesWeb
 Laboratorios en Clase
